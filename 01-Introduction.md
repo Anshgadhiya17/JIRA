@@ -34,5 +34,3 @@ It is widely used for Agile project management, bug tracking, and task managemen
 - Workflow
 
 ---
-
-# ✅ End of Introduction
